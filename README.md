@@ -1,4 +1,4 @@
-# Android device tree for lge LM-G900N (caymanlm)
+# Android device tree for lge LM-G900N/EM/EMW (not TMO) (caymanlm)
 
 ```
 #
